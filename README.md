@@ -1,5 +1,5 @@
 # 💫 About Me:
-💎 If you want a slightly more powerful version:<br><br>🔭 I’m currently working on<br>Designing intelligent cybersecurity systems and full-stack applications that solve real-world problems<br><br>🌱 I’m currently learning<br>Machine Learning, secure system design, and modern web technologies<br><br>💬 Ask me about<br>Cybersecurity, MERN stack, hackathons, and turning ideas into projects<br><br>⚡ Fun fact<br>I turn caffeine into code and ideas into working prototypes ☕🚀
+🔭 I’m currently working on<br>Designing intelligent cybersecurity systems and full-stack applications that solve real-world problems<br><br>🌱 I’m currently learning<br>Machine Learning, secure system design, and modern web technologies<br><br>💬 Ask me about<br>Cybersecurity, MERN stack, hackathons, and turning ideas into projects<br><br>⚡ Fun fact<br>I turn caffeine into code and ideas into working prototypes ☕🚀
 
 
 ## 🌐 Socials:
