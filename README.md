@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I am a passionate Cybersecurity student and Full Stack Developer who enjoys building secure and scalable applications. I love exploring how systems work, identifying vulnerabilities, and creating solutions that solve real-world problems. With hands-on experience in web development and project building, I constantly challenge myself to learn new technologies and improve my skills. I actively participate in hackathons and collaborative projects, where I enjoy working under pressure and turning ideas into impactful solutions.
@@ -73,6 +73,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
